@@ -7,10 +7,10 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
+Import the required libraries and image for transformation.
 
 ### Step2:
-<br>
+
 
 ### Step3:
 <br>
