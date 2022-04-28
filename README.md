@@ -116,24 +116,35 @@ v)Image Rotation
 
 vi)Image Cropping
 
+# cropping 
+    
+crop_img = image[600:750, 400:500]
 
+
+plt.axis("off")
+plt.imshow(crop_img)
+plt.show()
 
 
 
 ```
 ## Output:
 ### i)Image Translation
+![Screenshot (44)](https://user-images.githubusercontent.com/75234646/165653509-6b829a40-7a7c-4df0-9626-3233dcf66fa5.png)
 
 
 ### ii) Image Scaling
+![Screenshot (45)](https://user-images.githubusercontent.com/75234646/165653522-98a8f535-bdbc-49ed-b76b-f2aba5aba1b7.png)
 
 
 ### iii)Image shearing
 
+![Screenshot (46)](https://user-images.githubusercontent.com/75234646/165653487-2c118e4e-74d0-44d2-91f3-ebda4a919dd1.png)
 
 
 ### iv)Image Reflection
 
+![Screenshot (47)](https://user-images.githubusercontent.com/75234646/165653555-c90c67c7-1e3e-4f6c-b950-f9fa404e6054.png)
 
 
 ### v)Image Rotation
@@ -142,6 +153,7 @@ vi)Image Cropping
 
 
 ### vi)Image Cropping
+![Screenshot (48)](https://user-images.githubusercontent.com/75234646/165653542-487117bd-9774-46ff-82a4-e14dc1c91211.png)
 
 
 
