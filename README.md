@@ -111,7 +111,13 @@ plt.show()
 
 v)Image Rotation
 
-
+angle=np.radians(10)
+matrix=np.float32([[np.cos(angle),-np.sin(angle),0],
+                                [np.sin(angle),np.cos(angle),0],
+                                [0,0,1]])
+Rotated_image=cv.warpPerspective(image,matrix,(cols,rows))
+plt.axis("off")
+plt.imshow(Rotated_image)
 
 
 vi)Image Cropping
@@ -149,6 +155,7 @@ plt.show()
 
 ### v)Image Rotation
 
+![Screenshot (49)](https://user-images.githubusercontent.com/75234646/165653973-b50356da-e7e6-4510-bd3e-67ff25b85fb2.png)
 
 
 
