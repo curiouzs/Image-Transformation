@@ -10,16 +10,16 @@ Anaconda - Python 3.7
 Import the required libraries and image for transformation.
 
 ### Step2:
-
+Perform operations on the image like translaton, rotation and other.
 
 ### Step3:
-<br>
+Use the warpPerspective(image , matrix, (rows, columns)) function.
 
 ### Step4:
-<br>
+Plot the Image and Transformed Image on the graph using matplotlib for identifying changes.
 
 ### Step5:
-<br>
+Diifferent operations has been performed on the image.
 
 ## Program:
 ```python
