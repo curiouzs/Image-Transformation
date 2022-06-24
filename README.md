@@ -95,16 +95,15 @@ plt.show()
 
 ## Output:
 ### i)Image Translation
-
-<img src ="https://user-images.githubusercontent.com/75234646/165653509-6b829a40-7a7c-4df0-9626-3233dcf66fa5.png" width ="65%" height="50%">
+<img src ="https://user-images.githubusercontent.com/75234646/165653509-6b829a40-7a7c-4df0-9626-3233dcf66fa5.png" width ="65%" height="50%"> <br />
 ### ii) Image Scaling
-<img src ="https://user-images.githubusercontent.com/75234646/165653522-98a8f535-bdbc-49ed-b76b-f2aba5aba1b7.png" width ="65%" height="50%">
+<img src ="https://user-images.githubusercontent.com/75234646/165653522-98a8f535-bdbc-49ed-b76b-f2aba5aba1b7.png" width ="65%" height="50%"> <br />
 ### iii)Image shearing
-<img src ="https://user-images.githubusercontent.com/75234646/165653487-2c118e4e-74d0-44d2-91f3-ebda4a919dd1.png" width ="65%" height="50%">
+<img src ="https://user-images.githubusercontent.com/75234646/165653487-2c118e4e-74d0-44d2-91f3-ebda4a919dd1.png" width ="65%" height="50%"> <br />
 ### iv)Image Reflection
-<img src ="https://user-images.githubusercontent.com/75234646/165653555-c90c67c7-1e3e-4f6c-b950-f9fa404e6054.png" width ="65%" height="50%">
+<img src ="https://user-images.githubusercontent.com/75234646/165653555-c90c67c7-1e3e-4f6c-b950-f9fa404e6054.png" width ="65%" height="50%"> <br />
 ### v)Image Rotation
-<img src ="https://user-images.githubusercontent.com/75234646/165653973-b50356da-e7e6-4510-bd3e-67ff25b85fb2.png" width ="65%" height="50%">
+<img src ="https://user-images.githubusercontent.com/75234646/165653973-b50356da-e7e6-4510-bd3e-67ff25b85fb2.png" width ="65%" height="50%"> <br />
 ### vi)Image Cropping
 <img src ="https://user-images.githubusercontent.com/75234646/165653542-487117bd-9774-46ff-82a4-e14dc1c91211.png" width="65%" height="50%">
 
